@@ -1,0 +1,18 @@
+{
+  "name": "stageverslag",
+  "version": "1.0.0",
+  "scripts": {
+    "deploy": "jekyll build && node deploy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michelle-lammerts/stageverslag.git"
+  },
+  "bugs": {
+    "url": "https://github.com/michelle-lammerts/stageverslag/issues"
+  },
+  "homepage": "https://github.com/michelle-lammerts/stageverslag#readme",
+  "devDependencies": {
+    "gh-pages": "^0.5.0"
+  }
+}
