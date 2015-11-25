@@ -1,0 +1,19 @@
+.navigation {
+  white-space: nowrap;
+}
+.navigation-item {
+  font-family: 'Helvetica neue',sans-serif;
+  font-weight: 100;
+  font-size: 17px;
+  margin-left: 25px;
+  text-decoration: none;
+  color: #B3B3B3;
+}
+.navigation-item.active {
+  color: #525252;
+  text-decoration: underline;
+}
+.navigation-item:hover {
+  color: #525252;
+  text-decoration: underline;
+}

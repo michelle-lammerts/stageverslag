@@ -1,0 +1,57 @@
+.header {
+  padding-bottom: 30px;
+}
+.header-logo {
+  text-align: center;
+}
+.header-logo-image {
+  width: 180px;
+  padding: 30px;
+  padding-bottom: 50px;
+}
+.frontimg {
+  display: block;
+  margin: 0 auto;
+  width:1100px;
+}
+.more {
+  text-align: center;
+  color: black;
+  padding-top: 40px;
+  font-size: 1em;
+  font-weight: 100;
+  margin-bottom: 0px;
+  font-family: 'Helvetica neue', sans-serif;
+}
+.more:hover {
+  color:#B3B3B3;
+}
+a:-webkit-any-link {
+    text-decoration: none;
+}
+.logomore {
+  width: 100px;
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 10px;
+}
+.logomore:hover {
+  opacity: 0.8;
+}
+.bouncelnLeft {
+  left: -9999px;
+  position: relative;
+  display: block;
+}
+.logomore:hover .bouncelnLeft {
+  animation: fadeIn 0.7s linear forwards;
+}
+
+@-webkit-keyframes fadeIn {
+  0% {
+    left: -9999px;
+  }
+  100% {
+    left: 0;
+  }
+}

@@ -1,0 +1,35 @@
+<header class="header">
+  <div class="header-logo">
+    <a href="portfolio.html">
+      <img class="header-logo-image" src="images/mllogo.png">
+    </a>
+  </div>
+  <h2 class="u-hide">MICHELLE LAMMERTS</h2>
+  <div class="u-lines">
+    <nav class="navigation">
+      {% if page.url == '/portfolio.html' %}
+        <a href="/portfolio.html" class="navigation-item active">HOME</a>
+      {% else %}
+        <a href="/portfolio.html" class="navigation-item">HOME</a>
+      {% endif %}
+
+      {% if page.url == '/about.html' %}
+        <a href="/about.html" class="navigation-item active">ABOUT</a>
+      {% else %}
+        <a href="/about.html" class="navigation-item">ABOUT</a>
+      {% endif %}
+
+      {% if page.url == '/blog.html' %}
+        <a href="/blog.html" class="navigation-item active">BLOG</a>
+      {% else %}
+        <a href="/blog.html" class="navigation-item">BLOG</a>
+      {% endif %}
+
+      {% if page.url == '/contact.html' %}
+        <a href="/contact.html" class="navigation-item active">CONTACT</a>
+      {% else %}
+        <a href="/contact.html" class="navigation-item">CONTACT</a>
+      {% endif %}
+    </nav>
+  </div>
+</header>
