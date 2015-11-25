@@ -1,8 +1,59 @@
----
-layout: galery
----
+<!doctype html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <div>
+  <title>Your awesome title</title>
+  <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.css">
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://yourdomain.com/photography.html">
+  <link rel="alternate" type="application/rss+xml" title="Your awesome title" href="http://yourdomain.com/feed.xml" />
+  <link href="https://fonts.googleapis.com/css?family=Lato:400,300,300italic,400italic,700,900,700italic,100,100italic,900italic" rel='stylesheet' type='text/css'>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.5.8/slick.css"/>
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.5.8/slick-theme.css"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.css">
+  <link rel="stylsheet" href="sass/animate.css">
+</head>
+
+  <body>
+    <div class="page">
+      <div class="grid">
+        <header class="header">
+  <div class="header-logo">
+    <a href="portfolio.html">
+      <img class="header-logo-image" src="images/mllogo.png">
+    </a>
+  </div>
+  <h2 class="u-hide">MICHELLE LAMMERTS</h2>
+  <div class="u-lines">
+    <nav class="navigation">
+      
+        <a href="/portfolio.html" class="navigation-item">HOME</a>
+      
+
+      
+        <a href="/about.html" class="navigation-item">ABOUT</a>
+      
+
+      
+        <a href="/blog.html" class="navigation-item">BLOG</a>
+      
+
+      
+        <a href="/contact.html" class="navigation-item">CONTACT</a>
+      
+    </nav>
+  </div>
+</header>
+
+      </div>
+      <div class="grid">
+          <div>
     <h1 class="subtitle">Portrait Photography</h1>
     <div class="gallery">
       <a href="images/roos3.jpg" class="fancybox" title="Portrait 1"><img alt="" src="images/roos3.jpg"></a>
@@ -26,3 +77,31 @@ layout: galery
       <a href="images/fotoabstract2.jpg" class="fancybox"><img alt="Bright light" src="images/fotoabstract2.jpg"></a>
     </div>
   </div>
+
+      </div>
+    </div>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.5.8/slick.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.pack.js"></script>
+    <script>
+      $('.gallery').slick({
+        centerMode: true,
+        infinite: true,
+        slidesToShow: 3,
+        slidesToScroll: 1
+      });
+    </script>
+    <script>
+      $(document).ready(function() {
+        $('.fancybox').fancybox({
+          padding: 0,
+          nextClick: false,
+          closeClick: false,
+          closeBtn: false,
+          backgroundImages: false,
+          arrows: false
+        })
+      });
+    </script>
+  </body>
+</html>
