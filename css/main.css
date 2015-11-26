@@ -24,48 +24,41 @@ img {
   padding: 30px;
   padding-bottom: 50px; }
 
-.frontimg {
+.banner {
+  width: 90%;
   display: block;
-  margin: 0 auto;
-  width: 1100px; }
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 20px; }
 
-.more {
-  text-align: center;
-  color: black;
-  padding-top: 40px;
+.voorwoordtitle {
+  font-family: 'Helvetica neue', sans-serif;
+  font-size: 1.8em;
+  padding-left: 10%;
+  font-weight: 200; }
+
+.voorwoordsubtitle {
+  font-family: 'Helvetica neue', sans-serif;
+  font-size: 1.3em;
+  padding-left: 10%;
+  font-weight: 100; }
+
+.voorwoord {
+  font-family: 'Helvetica neue', sans-serif;
   font-size: 1em;
-  font-weight: 100;
-  margin-bottom: 0px;
-  font-family: 'Helvetica neue', sans-serif; }
+  font-weight: 200;
+  padding-right: 10%;
+  padding-top: 3%;
+  padding-left: 10%; }
 
-.more:hover {
-  color: #B3B3B3; }
-
-a:-webkit-any-link {
+.link {
+  color: black;
   text-decoration: none; }
 
-.logomore {
-  width: 100px;
-  display: block;
-  margin: 0 auto;
-  padding-bottom: 10px; }
+.link:hover {
+  color: #525252;
+  text-decoration: underline; }
 
-.logomore:hover {
-  opacity: 0.8; }
-
-.bouncelnLeft {
-  left: -9999px;
-  position: relative;
-  display: block; }
-
-.logomore:hover .bouncelnLeft {
-  animation: fadeIn 0.7s linear forwards; }
-
-@-webkit-keyframes fadeIn {
-  0% {
-    left: -9999px; }
-  100% {
-    left: 0; } }
 .card {
   background-color: #B2B2B2;
   display: block;
@@ -87,10 +80,18 @@ a:-webkit-any-link {
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 1.5%;
-  display: block;
-  padding-top: 20px; }
+  padding-top: 50px; }
   .grid::after {
+    clear: both;
+    content: "";
+    display: table; }
+
+.grid-small {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 50px; }
+  .grid-small::after {
     clear: both;
     content: "";
     display: table; }
@@ -99,12 +100,13 @@ a:-webkit-any-link {
   float: left;
   display: block;
   margin-right: 2.35765%;
-  width: 23.23176%; }
+  width: 31.76157%;
+  padding-bottom: 1rem; }
   .grid-cell:last-child {
     margin-right: 0; }
-  .grid-cell:nth-child(4n) {
+  .grid-cell:nth-child(3n) {
     margin-right: 0; }
-  .grid-cell:nth-child(4n+1) {
+  .grid-cell:nth-child(3n+1) {
     clear: left; }
 
 .u-hide {
@@ -137,6 +139,14 @@ a:-webkit-any-link {
 .u-lines {
   display: table;
   text-align: center; }
+
+.lines {
+  color: black;
+  margin-bottom: 4rem;
+  text-align: center;
+  display: table;
+  height: 6px;
+  width: 1200px; }
 
 .navigation {
   white-space: nowrap; }
