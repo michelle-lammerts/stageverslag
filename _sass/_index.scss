@@ -9,49 +9,38 @@
   padding: 30px;
   padding-bottom: 50px;
 }
-.frontimg {
+.banner {
+  width: 90%;
   display: block;
-  margin: 0 auto;
-  width:1100px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 20px;
 }
-.more {
-  text-align: center;
-  color: black;
-  padding-top: 40px;
-  font-size: 1em;
-  font-weight: 100;
-  margin-bottom: 0px;
+.voorwoordtitle {
   font-family: 'Helvetica neue', sans-serif;
+  font-size: 1.8em;
+  padding-left: 10%;
+  font-weight: 200;
 }
-.more:hover {
-  color:#B3B3B3;
+.voorwoordsubtitle {
+  font-family: 'Helvetica neue', sans-serif;
+  font-size: 1.3em;
+  padding-left: 10%;
+  font-weight: 100;
 }
-a:-webkit-any-link {
-    text-decoration: none;
+.voorwoord {
+  font-family: 'Helvetica neue', sans-serif;
+  font-size: 1em;
+  font-weight: 200;
+  padding-right: 10%;
+  padding-top: 3%;
+  padding-left: 10%;
 }
-.logomore {
-  width: 100px;
-  display: block;
-  margin: 0 auto;
-  padding-bottom: 10px;
+.link {
+  color:black;
+  text-decoration: none;
 }
-.logomore:hover {
-  opacity: 0.8;
-}
-.bouncelnLeft {
-  left: -9999px;
-  position: relative;
-  display: block;
-}
-.logomore:hover .bouncelnLeft {
-  animation: fadeIn 0.7s linear forwards;
-}
-
-@-webkit-keyframes fadeIn {
-  0% {
-    left: -9999px;
-  }
-  100% {
-    left: 0;
-  }
+.link:hover {
+  color: #525252;
+  text-decoration: underline;
 }
