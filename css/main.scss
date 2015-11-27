@@ -11,18 +11,22 @@
 @import "variables";
 
 // Import partials from `sass_dir` (defaults to `_sass`)
+@import "animation";
 @import "base";
-@import "index";
+@import "border";
 @import "card";
-@import "fancybox";
 @import "grid";
+@import "header";
 @import "hide";
 @import "lines";
+@import "link";
 @import "navigation";
 @import "page";
 @import "pictures";
 @import "slick";
 @import "social";
+@import "text";
 @import "thumbnail";
-@import "animation";
 @import "titles";
+
+// Schetsen
