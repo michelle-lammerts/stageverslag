@@ -2,7 +2,7 @@
   "name": "stageverslag",
   "version": "1.0.0",
   "scripts": {
-    "deploy": "jekyll build && node deploy.js"
+    "deploy": "JEKYLL_ENV=production jekyll build && node deploy.js"
   },
   "repository": {
     "type": "git",
