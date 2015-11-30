@@ -7,3 +7,16 @@
   color: #525252;
   text-decoration: underline;
 }
+
+.link--blog {
+  color:#585D5E;
+  text-decoration: none;
+  float: right;
+  font-weight: 200;
+  font-family: "Helvetica neue", sans-serif;
+}
+
+.link--blog:hover {
+  color: black;
+  text-decoration: underline;
+}

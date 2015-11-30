@@ -7,10 +7,11 @@
   <h2 class="u-hide">MICHELLE LAMMERTS</h2>
   <div class="u-lines">
     <nav class="navigation">
-      {% if page.url == '/portfolio.html' %}
-        <a href="/portfolio.html" class="navigation-item active">HOME</a>
+
+      {% if page.url == '/index.html' %}
+        <a href="/index.html" class="navigation-item active">HOME</a>
       {% else %}
-        <a href="/portfolio.html" class="navigation-item">HOME</a>
+        <a href="/index.html" class="navigation-item">HOME</a>
       {% endif %}
 
       {% if page.url == '/about.html' %}
@@ -26,10 +27,17 @@
       {% endif %}
 
       {% if page.url == '/contact.html' %}
-        <a href="/contact.html" class="navigation-item active">CONTACT</a>
+        <a href="/contact.html" class="navigation-item active">UREN</a>
       {% else %}
-        <a href="/contact.html" class="navigation-item">CONTACT</a>
+        <a href="/contact.html" class="navigation-item">UREN</a>
       {% endif %}
+
+      {% if page.url == '/portfolio.html' %}
+        <a href="/projecten.html" class="navigation-item active">PROJECTEN</a>
+      {% else %}
+        <a href="/projecten.html" class="navigation-item">PROJECTEN</a>
+      {% endif %}
+
     </nav>
   </div>
 </header>

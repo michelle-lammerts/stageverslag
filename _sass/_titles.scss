@@ -1,15 +1,45 @@
 .title {
+  color: #575c5e;
+  font-family: "Helvetica neue", sans-serif;
   font-size: 30px;
-  font-family: 'Helvetica neue', sans-serif;
   font-weight: 300;
-  color: #575C5E;
+  padding-left: 10%;
 }
 
 .title--subtitle {
-  color: #B3B3B3;
+  color: #b3b3b3;
   font-size: 28px;
   font-weight: 100;
   line-height: 1;
   margin: 0;
-  padding-top: 30px;
+  padding-bottom: 40px;
+}
+
+.title--name{
+  position: absolute;
+  font-weight: 100;
+  margin-top: 0px;
+  line-height: 1.5em;
+  font-size: 12px;
+}
+
+.title--namemiddle {
+  position: relative;
+  text-align: center;
+  margin-top: 0px;
+  color: #525252;
+  font-size: 12px;
+  font-weight: 100;
+  line-height: 1.5em;
+}
+.title--bloghead {
+  padding-top: 80px;
+  padding-bottom: 30px;
+  margin-right: 20px;
+  font-weight: 100;
+  font-size: 1.7em;
+}
+
+.title--blogdate{
+  float: right;
 }
