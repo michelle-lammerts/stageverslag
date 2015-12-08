@@ -1,10 +1,16 @@
 ---
 layout: social
 group: navigation
-title: blog3
+title: blog4
 ---
 
 <head>
+
+    {% if jekyll.environment == "production" %}
+      <link rel="stylesheet" href="{{ "/stageverslag/css/main.css" | prepend: site.baseurl }}">
+    {% else %}
+      <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+    {% endif %}
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <title>Foundation | Welcome</title>
@@ -16,27 +22,27 @@ title: blog3
 <div class="u-lines--2">
   <nav class="navigation">
     {% if page.url == '/blog.html' %}
-      <a href="/blog.html" class="navigation-item2 active">MAAND 1</a>
+      <a href="/blog.html" class="navigation-item2 active">SEPTEMBER</a>
     {% else %}
-      <a href="/blog.html" class="navigation-item2">MAAND 1</a>
+      <a href="/blog.html" class="navigation-item2">SEPTEMBER</a>
     {% endif %}
 
-    {% if page.url == '/blog2.html' %}
-      <a href="/blog2.html" class="navigation-item2 active">MAAND 2</a>
+    {% if page.url == '/oktober.html' %}
+      <a href="oktober.html" class="navigation-item2 active">OKTOBER</a>
     {% else %}
-      <a href="/blog2.html" class="navigation-item2">MAAND 2</a>
+      <a href="/oktober.html" class="navigation-item2">OKTOBER</a>
     {% endif %}
 
-    {% if page.url == '/blog3.html' %}
-      <a href="/blog3.html" class="navigation-item2 active">MAAND 3</a>
+    {% if page.url == '/november.html' %}
+      <a href="/november.html" class="navigation-item2 active">NOVEMBER</a>
     {% else %}
-      <a href="/blog3.html" class="navigation-item2">MAAND 3</a>
+      <a href="/november.html" class="navigation-item2">NOVEMBER</a>
     {% endif %}
 
-    {% if page.url == '/blog4.html' %}
-      <a href="/blog4.html" class="navigation-item2 active">MAAND4</a>
+    {% if page.url == '/december.html' %}
+      <a href="/december.html" class="navigation-item2 active">DECEMBER</a>
     {% else %}
-      <a href="/blog4.html" class="navigation-item2">MAAND 4</a>
+      <a href="/december.html" class="navigation-item2">DECEMBER</a>
     {% endif %}
   </nav>
 </div>

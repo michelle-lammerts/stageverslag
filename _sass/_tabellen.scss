@@ -1,0 +1,84 @@
+
+.table--topweek {
+  padding: 10px 78px 10px 10px;
+  background-color: #FAFAFF;
+  color: #0232a3;
+  font-size: .9em;
+  font-weight: 200;
+  border: 3px solid #fff;
+}
+.table {
+  font-size: 1em;
+  font-family: "Helvetica neue", sans-serif;
+  font-weight:  200;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 70px;
+}
+.table:first-of-type {
+  margin-top: 0;
+}
+.table--top {
+  background-color: #3D40A8;
+  color: #fff;
+  font-weight: lighter;
+  border-color:#3D40A8;
+}
+.table--topname {
+  padding: 5px;
+  border-top:3px solid #fff;
+  border-left: 3px solid #fff;
+  font-weight: 200;
+}
+.table--days {
+  background-color: #464BCF;
+  color: #fff;
+  border: 3px solid #fff;
+  padding: 5px;
+}
+
+.table--info {
+  font-weight: 100;
+  border: 3px solid #fff;
+  padding: 5px;
+  color: #0232a3;
+  background-color: #9094FC;
+  font-size: .8em;
+}
+.table--infotot {
+  background-color: #B3B5FF;border: 3px solid #fff;
+  padding: 5px;
+  color: #0232a3;
+  font-size: .8em;
+}
+.table--infopauze {
+  background-color: #C5C7FC;
+  border: 3px solid #fff;
+  padding: 5px;
+  color: #0232a3;
+  font-size: .8em;
+}
+.table--infouren {
+  background-color: #D4D5FF;
+  border: 3px solid #fff;
+  color: #0232a3;
+  padding: 5px;
+  font-size: .8em;
+}
+.table--infoover {
+  background-color: #E8E9FF;
+  color: #0232a3;
+  padding: 5px;
+  border: 3px solid #fff;
+  font-size: .8em;
+}
+.table--infotext {
+  width: 300px;
+  font-weight: 200;
+  padding: 5px;
+  color: #0232a3;
+  background-color: #FAFAFF;
+  border: 3px solid #fff;
+  font-size: .8em;
+}
