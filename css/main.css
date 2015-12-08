@@ -254,9 +254,99 @@ img {
   padding-left: 10%;
   padding-right: 10%; }
 
+.text--blog {
+  padding: 20px 25% 30px 25%; }
+
+.table--topweek {
+  padding: 10px 78px 10px 10px;
+  background-color: #FAFAFF;
+  color: #0232a3;
+  font-size: .9em;
+  font-weight: 200;
+  border: 3px solid #fff; }
+
+.table {
+  font-size: 1em;
+  font-family: "Helvetica neue", sans-serif;
+  font-weight: 200;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 70px; }
+
+.table:first-of-type {
+  margin-top: 0; }
+
+.table--top {
+  background-color: #3D40A8;
+  color: #fff;
+  font-weight: lighter;
+  border-color: #3D40A8; }
+
+.table--topname {
+  padding: 5px;
+  border-top: 3px solid #fff;
+  border-left: 3px solid #fff;
+  font-weight: 200; }
+
+.table--days {
+  background-color: #464BCF;
+  color: #fff;
+  border: 3px solid #fff;
+  padding: 5px; }
+
+.table--info {
+  font-weight: 100;
+  border: 3px solid #fff;
+  padding: 5px;
+  color: #0232a3;
+  background-color: #9094FC;
+  font-size: .8em; }
+
+.table--infotot {
+  background-color: #B3B5FF;
+  border: 3px solid #fff;
+  padding: 5px;
+  color: #0232a3;
+  font-size: .8em; }
+
+.table--infopauze {
+  background-color: #C5C7FC;
+  border: 3px solid #fff;
+  padding: 5px;
+  color: #0232a3;
+  font-size: .8em; }
+
+.table--infouren {
+  background-color: #D4D5FF;
+  border: 3px solid #fff;
+  color: #0232a3;
+  padding: 5px;
+  font-size: .8em; }
+
+.table--infoover {
+  background-color: #E8E9FF;
+  color: #0232a3;
+  padding: 5px;
+  border: 3px solid #fff;
+  font-size: .8em; }
+
+.table--infotext {
+  width: 300px;
+  font-weight: 200;
+  padding: 5px;
+  color: #0232a3;
+  background-color: #FAFAFF;
+  border: 3px solid #fff;
+  font-size: .8em; }
+
 .thumbnail {
-  position: relative;
-  margin: 0 auto; }
+  border-radius: 0px;
+  border: 4px solid #fefefe;
+  box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
+  line-height: 0;
+  max-width: 50%;
+  margin-bottom: 1rem; }
 
 .thumbnail-title {
   display: none; }
@@ -296,11 +386,19 @@ img {
   line-height: 1.5em; }
 
 .title--bloghead {
-  padding-top: 80px;
+  padding-left: 25%;
   padding-bottom: 30px;
-  margin-right: 20px;
+  line-height: 1.4;
+  margin-bottom: .5rem;
+  margin: 0px;
   font-weight: 100;
-  font-size: 1.7em; }
+  font-size: 1.4em; }
 
 .title--blogdate {
-  float: right; }
+  float: right;
+  font-family: "Helvetica neue";
+  color: #B3B3B3;
+  font-weight: 100;
+  padding-right: 25%;
+  line-height: 0;
+  font-size: 80%; }
