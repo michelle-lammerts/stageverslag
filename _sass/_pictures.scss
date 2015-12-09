@@ -1,6 +1,6 @@
 .pictures {
-  transition: opacity 200ms ease;
   margin: auto;
+  transition: opacity 200ms ease;
 }
 
 .pictures:hover {
@@ -8,6 +8,6 @@
 }
 
 .about-img {
+  float: left;
   max-width: 30%;
-  float:left;
 }

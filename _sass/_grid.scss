@@ -1,14 +1,17 @@
 .grid {
+
   @include outer-container(1200px);
   padding-top: 50px;
 }
 
 .grid-small {
+
   @include outer-container(600px);
   padding-top: 50px;
 }
 
 .grid-cell {
+
   @include span-columns(4);
   @include omega(3n);
   padding-bottom: 1rem;

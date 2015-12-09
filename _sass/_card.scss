@@ -1,5 +1,5 @@
 .card {
-  background-color: #B2B2B2;
+  background-color: #b2b2b2;
   display: block;
   padding: 3px;
   text-decoration: none;
@@ -10,10 +10,10 @@
 }
 
 .card-title {
-  line-height: 0.5;
-  font-size: 1.2rem;
-  font-family: 'Helvetica neue', sans-serif;
   color: #fff;
+  font-family: "Helvetica neue", sans-serif;
+  font-size: 1.2rem;
   font-weight: 100;
+  line-height: 0.5;
   text-align: center;
 }
