@@ -6,9 +6,9 @@ html {
   box-sizing: inherit; }
 
 .banner {
+  display: block;
   width: 90%;
   margin-left: auto;
-  display: block;
   margin-right: auto;
   padding-bottom: 20px; }
 
@@ -19,7 +19,7 @@ body {
   background-color: white; }
 
 .card {
-  background-color: #B2B2B2;
+  background-color: #b2b2b2;
   display: block;
   padding: 3px;
   text-decoration: none; }
@@ -28,11 +28,11 @@ body {
   opacity: 0.7; }
 
 .card-title {
-  line-height: 0.5;
-  font-size: 1.2rem;
-  font-family: 'Helvetica neue', sans-serif;
   color: #fff;
+  font-family: "Helvetica neue", sans-serif;
+  font-size: 1.2rem;
   font-weight: 100;
+  line-height: 0.5;
   text-align: center; }
 
 .grid {
@@ -75,9 +75,8 @@ body {
   text-align: center; }
 
 .header-logo-image {
-  width: 180px;
-  padding: 30px;
-  padding-bottom: 50px; }
+  padding: 30px 30px 50px 30px;
+  width: 180px; }
 
 .header--about {
   font-weight: 300;
@@ -166,12 +165,12 @@ body {
   white-space: nowrap; }
 
 .navigation-item {
-  font-family: 'Helvetica neue', sans-serif;
-  font-weight: 100;
+  color: #b3b3b3;
+  font-family: "Helvetica neue", sans-serif;
   font-size: 17px;
+  font-weight: 100;
   margin-left: 25px;
-  text-decoration: none;
-  color: #B3B3B3; }
+  text-decoration: none; }
 
 .navigation-item.active {
   color: #525252;
@@ -182,12 +181,12 @@ body {
   text-decoration: underline; }
 
 .navigation-item2 {
-  font-family: 'Helvetica neue', sans-serif;
-  font-weight: 500;
+  color: #b3b3b3;
+  font-family: "Helvetica neue", sans-serif;
   font-size: 17px;
+  font-weight: 500;
   margin-left: 25px;
-  text-decoration: none;
-  color: #B3B3B3; }
+  text-decoration: none; }
 
 .navigation-item2:hover {
   color: #525252;
@@ -198,9 +197,9 @@ body {
   text-decoration: underline; }
 
 .page {
-  width: 1200px;
   margin: 0 auto 10vh;
-  min-height: 80vh; }
+  min-height: 80vh;
+  width: 1200px; }
 
 img {
   display: block;
@@ -210,15 +209,15 @@ img {
   padding-bottom: 50px; }
 
 .pictures {
-  transition: opacity 200ms ease;
-  margin: auto; }
+  margin: auto;
+  transition: opacity 200ms ease; }
 
 .pictures:hover {
   opacity: 0.7; }
 
 .about-img {
-  max-width: 30%;
-  float: left; }
+  float: left;
+  max-width: 30%; }
 
 .gallery.slick-initialized.slick-slider {
   margin-top: 10%; }
