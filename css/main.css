@@ -79,6 +79,10 @@ body {
   padding: 30px;
   padding-bottom: 50px; }
 
+.header--about {
+  font-weight: 300;
+  padding-left: 30px; }
+
 .u-hide {
   border: 0;
   clip: rect(0 0 0 0);
@@ -211,6 +215,10 @@ img {
 
 .pictures:hover {
   opacity: 0.7; }
+
+.about-img {
+  max-width: 30%;
+  float: left; }
 
 .gallery.slick-initialized.slick-slider {
   margin-top: 10%; }
