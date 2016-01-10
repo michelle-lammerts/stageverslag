@@ -1,3 +1,6 @@
+# Gem dependencies
+gems: [jekyll-paginate]
+
 # Site settings
 title: Your awesome title
 email: your-email@domain.com
