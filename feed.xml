@@ -6,58 +6,189 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 Dec 2015 15:32:09 +0100</pubDate>
-    <lastBuildDate>Thu, 24 Dec 2015 15:32:09 +0100</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Mon, 11 Jan 2016 21:16:55 +0100</pubDate>
+    <lastBuildDate>Mon, 11 Jan 2016 21:16:55 +0100</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
     
       <item>
-        <title>blog3</title>
+        <title>De beoordeling</title>
         <description>&lt;div class=&quot;row medium-8 large-7 columns&quot;&gt;
   &lt;div class=&quot;blog-post&quot;&gt;
-    &lt;h3 class=&quot;title--bloghead&quot;&gt; drie &lt;small class=&quot;title--blogdate&quot;&gt;31/09/2015&lt;/small&gt;&lt;/h3&gt;
-    &lt;img class=&quot;thumbnail&quot; src=&quot;http://placehold.it/850x350&quot;&gt;
-    &lt;p class=&quot;text--blog&quot;&gt;Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus.&lt;/p&gt;
+    &lt;h3 class=&quot;title--bloghead&quot;&gt; Week 52&lt;small class=&quot;title--blogdate&quot;&gt;21/12/2015 - 25/12/2015&lt;/small&gt;&lt;/h3&gt;
+    &lt;img class=&quot;thumbnail&quot; src=images/blog17.png&gt;
+    &lt;p class=&quot;text--blog&quot;&gt; Mijn laatste week is aangebroken. Dit is de week van het afronden en de beoordeling.
+      &lt;br&gt;Eerst heb ik de verschillende iconen voor het nieuwe CAPP afgerond, daarna nog verschillende stylsheets aangepast en nog dingen voor mijn website gedaan, (de rest doe ik thuis). Toen kwam de beoordeling, de beoordeling ging super goed. Je ziet de beoordeling onder het kopje beoordelingen. Ik ben gevraagd om te blijven voor een aantal dagen per week. Dit is zeker een teken dat ik dingen goed heb gedaan. Ik ben zelf ook heel positief over mijn stage. Ik heb super veel geleerd op het vlak van webdesignen en dat was een persoonlijke leerdoel voor mij. Ik denk dat in de toekomst veel meer designers deze kant op gaan. Er is veel vraag naar designers die kunnen coderen in dit vakgebied.
+    &lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Sun, 01 Nov 2015 00:00:00 +0100</pubDate>
-        <link>http://yourdomain.com/2015/11/01/jjaja.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2015/11/01/jjaja.html</guid>
+        <pubDate>Mon, 21 Dec 2015 00:00:00 +0100</pubDate>
+        <link>http://yourdomain.com/2015/12/21/zeventien.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/12/21/zeventien.html</guid>
         
         
       </item>
     
       <item>
-        <title>blog2</title>
+        <title>Ziek</title>
         <description>&lt;div class=&quot;row medium-8 large-7 columns&quot;&gt;
   &lt;div class=&quot;blog-post&quot;&gt;
-    &lt;h3 class=&quot;title--bloghead&quot;&gt; twee &lt;small class=&quot;title--blogdate&quot;&gt;31/09/2015&lt;/small&gt;&lt;/h3&gt;
-    &lt;img class=&quot;thumbnail&quot; src=&quot;http://placehold.it/850x350&quot;&gt;
-    &lt;p class=&quot;text--blog&quot;&gt;Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus.&lt;/p&gt;
-
+    &lt;h3 class=&quot;title--bloghead&quot;&gt; Week 51&lt;small class=&quot;title--blogdate&quot;&gt;14/12/2015 - 18/12/2015&lt;/small&gt;&lt;/h3&gt;
+    &lt;img class=&quot;thumbnail&quot; src=images/blog16.png&gt;
+    &lt;p class=&quot;text--blog&quot;&gt; Deze week begon met nog een paar dagen uitzieken, na twee dagen ben ik toch maar weer gaan werken. Ik heb maar twee dagen kunnen werken want de vrijdag had ik een dag verlof. In deze twee dagen moest ik OZG debuggen en heb ik verder kunnen werken aan mijn website. Je zult wel denken wat is ze veel bezig met haar website, maar om een hele website zelf de bouwen is nog best veel werk.
+    &lt;/p&gt;
   &lt;/div&gt;
+&lt;/div&gt;
 </description>
-        <pubDate>Thu, 01 Oct 2015 00:00:00 +0200</pubDate>
-        <link>http://yourdomain.com/2015/10/01/bla-bla.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2015/10/01/bla-bla.html</guid>
+        <pubDate>Mon, 14 Dec 2015 00:00:00 +0100</pubDate>
+        <link>http://yourdomain.com/2015/12/14/zestien.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/12/14/zestien.html</guid>
         
         
       </item>
     
       <item>
-        <title>blog1</title>
+        <title>Herhaling</title>
         <description>&lt;div class=&quot;row medium-8 large-7 columns&quot;&gt;
   &lt;div class=&quot;blog-post&quot;&gt;
-    &lt;h3 class=&quot;title--bloghead&quot;&gt; Één &lt;small class=&quot;title--blogdate&quot;&gt;31/09/2015&lt;/small&gt;&lt;/h3&gt;
-    &lt;img class=&quot;thumbnail&quot; src=&quot;http://placehold.it/850x350&quot;&gt;
-    &lt;p class=&quot;text--blog&quot;&gt;Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue. Donec congue lacinia dui, a porttitor lectus condimentum laoreet. Nunc eu ullamcorper orci. Quisque eget odio ac lectus vestibulum faucibus eget in metus. In pellentesque faucibus vestibulum. Nulla at nulla justo, eget luctus.&lt;/p&gt;
+    &lt;h3 class=&quot;title--bloghead&quot;&gt; Week 50&lt;small class=&quot;title--blogdate&quot;&gt;07/12/2015 - 11/12/2015&lt;/small&gt;&lt;/h3&gt;
+    &lt;img class=&quot;thumbnail&quot; src=images/blog15.png&gt;
+    &lt;p class=&quot;text--blog&quot;&gt;Nog maar drie weken tot dat ik klaar ben. Deze week heb ik al wat stylsheets afgerond, bijvoorbeeld die van Duo en OZG. Ik ben verder gegaan met mijn website daarna wou ik de iconen van de nieuwe CAPP afronden. Alleen eind deze week kreeg ik weer last van de griep. Blijkbaar als er iets rond gaat ben ik altijd de pineut.
+    &lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
+</description>
+        <pubDate>Mon, 07 Dec 2015 00:00:00 +0100</pubDate>
+        <link>http://yourdomain.com/2015/12/07/vijftien.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/12/07/vijftien.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Herhaling</title>
+        <description>&lt;div class=&quot;row medium-8 large-7 columns&quot;&gt;
+  &lt;div class=&quot;blog-post&quot;&gt;
+    &lt;h3 class=&quot;title--bloghead&quot;&gt; Week 49&lt;small class=&quot;title--blogdate&quot;&gt;30/11/2015 - 04/12/2015&lt;/small&gt;&lt;/h3&gt;
+    &lt;img class=&quot;thumbnail&quot; src=images/blog14.png&gt;
+    &lt;p class=&quot;text--blog&quot;&gt; Deze week was een herhaling van week 48 en 47. Ik moest nu alleen duo upgraden naar een latere versie van Capp en ik ben weer bezig geweest om mijn stageverslag website te bouwen. Voor de rest was het een rustige week qua opdrachten betreft.
+    &lt;/p&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
-        <link>http://yourdomain.com/2015/09/01/nieuw-begin.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2015/09/01/nieuw-begin.html</guid>
+        <pubDate>Mon, 30 Nov 2015 00:00:00 +0100</pubDate>
+        <link>http://yourdomain.com/2015/11/30/viertien.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/11/30/viertien.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Upgraden</title>
+        <description>&lt;div class=&quot;row medium-8 large-7 columns&quot;&gt;
+  &lt;div class=&quot;blog-post&quot;&gt;
+    &lt;h3 class=&quot;title--bloghead&quot;&gt; Week 48&lt;small class=&quot;title--blogdate&quot;&gt;23/11/2015 - 27/11/2015&lt;/small&gt;&lt;/h3&gt;
+    &lt;img class=&quot;thumbnail&quot; src=images/blog13.png&gt;
+    &lt;p class=&quot;text--blog&quot;&gt; Deze week heb ik weer promotie materiaal moeten maken voor een Duitse medicatie beurs, alleen dit keer was het een banner. Hij moet 1 meter bij 0,50 meter worden. De rest van de week was ik bezig om NFI naar een nieuwere versie van CAPP te zetten, een hele taak en uit Zuid-Zorg verschillende bugs te halen.
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 23 Nov 2015 00:00:00 +0100</pubDate>
+        <link>http://yourdomain.com/2015/11/23/dertien.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/11/23/dertien.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Opzetten van een eigen website</title>
+        <description>&lt;div class=&quot;row medium-8 large-7 columns&quot;&gt;
+  &lt;div class=&quot;blog-post&quot;&gt;
+    &lt;h3 class=&quot;title--bloghead&quot;&gt; Week 47&lt;small class=&quot;title--blogdate&quot;&gt;16/11/2015 - 20/11/2015&lt;/small&gt;&lt;/h3&gt;
+    &lt;img class=&quot;thumbnail&quot; src=images/blog12.png&gt;
+    &lt;p class=&quot;text--blog&quot;&gt; Ik heb besloten om mijn stageverslag in een vorm van een website te maken. Deze website wil ik dan ook eigenhandig maken. Zo kan je door de vorm zien wat ik geleerd heb. Eerst moet ik eigenhandig de website opzetten via www.github.com, al een hele taak. Daarna moet er handmatig de navigatie en de verschillende paginas opgezet worden. Voor het tonen van de afbeeldingen in projecten heb ik een Fancybox moeten gebruiken. Het is een heel proces wat je moet door gaan voor dat je pas een aantal basis pagina&#39;s heb.
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 16 Nov 2015 00:00:00 +0100</pubDate>
+        <link>http://yourdomain.com/2015/11/16/twaalf.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/11/16/twaalf.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Bugs</title>
+        <description>&lt;div class=&quot;row medium-8 large-7 columns&quot;&gt;
+  &lt;div class=&quot;blog-post&quot;&gt;
+    &lt;h3 class=&quot;title--bloghead&quot;&gt; Week 46&lt;small class=&quot;title--blogdate&quot;&gt;09/11/2015 - 13/11/2015&lt;/small&gt;&lt;/h3&gt;
+    &lt;img class=&quot;thumbnail&quot; src=images/blog11.png&gt;
+    &lt;p class=&quot;text--blog&quot;&gt; Deze week heb ik een stagegesprek met mijn stagebegeleider Gerwin Veenstra en stage coördinator Maaike Hamelynck gehad. Na mijn idee ging de beoordeling goed, er waren niet veel op of aanmerkingen.
+      &lt;br&gt;Voor de rest ben ik een aantal dagen bezig geweest met LUMC en LUMC jaargesprekken te debuggen. Er zat een grote fout in het inlogscherm en we konden  niet vinden waar hij zat en hoe het opgelost moest worden. Ik ben er achter gekomen dat Html en Css veel met oplossen van fouten en problemen te maken heeft. Als er al één code fout staat snapt de computer al niet meer wat je bedoeld.
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 09 Nov 2015 00:00:00 +0100</pubDate>
+        <link>http://yourdomain.com/2015/11/09/elf.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/11/09/elf.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Over smaak valt niet te twisten</title>
+        <description>&lt;div class=&quot;row medium-8 large-7 columns&quot;&gt;
+  &lt;div class=&quot;blog-post&quot;&gt;
+    &lt;h3 class=&quot;title--bloghead&quot;&gt; Week 45&lt;small class=&quot;title--blogdate&quot;&gt;02/11/2015 - 06/11/2015&lt;/small&gt;&lt;/h3&gt;
+    &lt;img class=&quot;thumbnail&quot; src=images/blog10.png&gt;
+    &lt;p class=&quot;text--blog&quot;&gt; Deze week moest ik de stylsheets van Trajectum, LUMC, Raamwerk en NFI aanpassen. Het is soms echt moeilijk om naar de klanten te luisteren, je weet van te voren dat het niet mooi gaat worden en toch willen ze het. Dan maak je er wat van, maar het is nog steeds niet goed of mooi en zei vinden het prachtig. Het is soms heel moeilijk om niet gillend gek te worden. Bijvoorbeeld een bedrijf zoals Tui, je zou zeggen een groot bedrijf die wel een goed design wil hebben. Maar, nee helaas. Niet alleen moet ik rare kleur stellingen bij elkaar gebruiken, ze sturen mij ook pixelige bestanden. Raamwerk stuurde mij een logo via Paint.
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 02 Nov 2015 00:00:00 +0100</pubDate>
+        <link>http://yourdomain.com/2015/11/02/tien.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/11/02/tien.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Projectweek</title>
+        <description>&lt;div class=&quot;row medium-8 large-7 columns&quot;&gt;
+  &lt;div class=&quot;blog-post&quot;&gt;
+    &lt;h3 class=&quot;title--bloghead&quot;&gt; Week 44&lt;small class=&quot;title--blogdate&quot;&gt;26/10/2015 - 30/10/2015&lt;/small&gt;&lt;/h3&gt;
+    &lt;img class=&quot;thumbnail&quot; src=images/blog9.png&gt;
+    &lt;p class=&quot;text--blog&quot;&gt; Deze week stond in het teken van de projectweek. Alle developers moesten een week samen aan een project werken, om dichter tot elkaar te komen en van elkaar te leren. We moesten een nieuwe software maken en designen. Alleen na één dag werd ik al zien, natuurlijk niet van de opdracht maar van de griep. Blijkbaar heerste er een griep onder de developers en zaten we iets te dicht op elkaars lip.
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 26 Oct 2015 00:00:00 +0100</pubDate>
+        <link>http://yourdomain.com/2015/10/26/negen.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/10/26/negen.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Stylsheets</title>
+        <description>&lt;div class=&quot;row medium-8 large-7 columns&quot;&gt;
+  &lt;div class=&quot;blog-post&quot;&gt;
+    &lt;h3 class=&quot;title--bloghead&quot;&gt; Week 43&lt;small class=&quot;title--blogdate&quot;&gt;19/10/2015 - 23/10/2015&lt;/small&gt;&lt;/h3&gt;
+    &lt;img class=&quot;thumbnail&quot; src=images/blog8.png&gt;
+    &lt;p class=&quot;text--blog&quot;&gt; En toen kwamen er deze week nog meer aanvragen voor stylsheets binnen, bijvoorbeeld van: FEK, Trajectum, Zuid-Zorg en KvK. Dat heeft mij wel een week bezig gehouden. Daar naast heb ik nog een cursus van Java Script gevolgd, om mijzelf daar in te verbeteren. Aangezien ik niet veel Java Script gebruik, verleer ik het aardig snel weer.
+      &lt;br&gt;Ook krijg ik continu de vraag of ik tekstbestanden wil aanpassen, aangezien alleen Mathijs (een designer van Defacto) en ik het programma kennen.
+    &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 18 Oct 2015 00:00:00 +0200</pubDate>
+        <link>http://yourdomain.com/2015/10/18/acht.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/10/18/acht.html</guid>
         
         
       </item>
