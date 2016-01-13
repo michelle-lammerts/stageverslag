@@ -19,6 +19,12 @@
         <a href="about.html" class="navigation-item">ABOUT</a>
       {% endif %}
 
+      {% if page.url == 'leerdoelen.html' %}
+        <a href="leerdoelen.html" class="navigation-item active">LEERDOELEN</a>
+      {% else %}
+        <a href="leerdoelen.html" class="navigation-item">LEERDOELEN</a>
+      {% endif %}
+
       {% if page.url == 'blog/' %}
         <a href="blog/" class="navigation-item active">BLOG</a>
       {% else %}
@@ -31,11 +37,24 @@
         <a href="uren.html" class="navigation-item">UREN</a>
       {% endif %}
 
-      {% if page.url == 'portfolio.html' %}
+      {% if page.url == 'projecten.html' %}
         <a href="projecten.html" class="navigation-item active">PROJECTEN</a>
       {% else %}
         <a href="projecten.html" class="navigation-item">PROJECTEN</a>
       {% endif %}
+
+      {% if page.url == 'conclusie.html' %}
+        <a href="conclusie.html" class="navigation-item active">CONCLUSIE</a>
+      {% else %}
+        <a href="conclusie.html" class="navigation-item">CONCLUSIE</a>
+      {% endif %}
+
+      {% if page.url == 'beoordelingen.html' %}
+        <a href="beoordelingen.html" class="navigation-item active">BEOORDELINGEN</a>
+      {% else %}
+        <a href="beoordelingen.html" class="navigation-item">BEOORDELINGEN</a>
+      {% endif %}
+
     </nav>
   </div>
 </header>
