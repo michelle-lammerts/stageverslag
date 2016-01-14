@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Jan 2016 15:12:00 +0100</pubDate>
-    <lastBuildDate>Wed, 13 Jan 2016 15:12:00 +0100</lastBuildDate>
+    <pubDate>Thu, 14 Jan 2016 18:45:15 +0100</pubDate>
+    <lastBuildDate>Thu, 14 Jan 2016 18:45:15 +0100</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -16,9 +16,15 @@
   &lt;div class=&quot;blog-post&quot;&gt;
     &lt;h3 class=&quot;title--bloghead&quot;&gt; Week 52&lt;small class=&quot;title--blogdate&quot;&gt;21/12/2015 - 25/12/2015&lt;/small&gt;&lt;/h3&gt;
     &lt;img class=&quot;thumbnail&quot; src=images/blog17.png&gt;
-    &lt;p class=&quot;text--blog&quot;&gt; Mijn laatste week is aangebroken. Dit is de week van het afronden en de beoordeling.
-      &lt;br&gt;Eerst heb ik de verschillende iconen voor het nieuwe CAPP afgerond, daarna nog verschillende stylsheets aangepast en nog dingen voor mijn website gedaan, (de rest doe ik thuis). Toen kwam de beoordeling, de beoordeling ging super goed. Je ziet de beoordeling onder het kopje beoordelingen. Ik ben gevraagd om te blijven voor een aantal dagen per week. Dit is zeker een teken dat ik dingen goed heb gedaan. Ik ben zelf ook heel positief over mijn stage. Ik heb super veel geleerd op het vlak van webdesignen en dat was een persoonlijke leerdoel voor mij. Ik denk dat in de toekomst veel meer designers deze kant op gaan. Er is veel vraag naar designers die kunnen coderen in dit vakgebied.
-    &lt;/p&gt;
+    &lt;p class=&quot;text--blog&quot;&gt; Mijn laatste week. Dit is de week van het afronden en de beoordeling.
+      &lt;br&gt;Eerst heb ik de verschillende iconen voor het nieuwe CAPP afgerond. Daarna moest ik de laatste stylsheets aanpassen. Toen kwam de beoordeling, over de beoordeling heb ik niet te klagen, het ging hartstikke goed. Je kan de beoordeling zien onder het kopje beoordeling.
+      &lt;br&gt;Nu het beste nieuws van alles, ik ben gevraagd om te blijven voor een aantal dagen per week. Dit is denk ik wel een teken dat ik mijn stage goed heb gedaan. Zelf ben ik heel positief over mijn stage. Ik heb super veel geleerd op het vlak van webdesignen. Dit was natuurlijk ook een persoonlijke leerdoel van mij. Ik denk dat in de toekomst veel meer designers de technologische kant op gaan. Er is veel vraag naar designers die kunnen coderen in dit vakgebied.
+      &lt;br&gt;&lt;br&gt; &lt;b&gt;Gewerkt aan de volgende doelen uit het stagewerkplan:&lt;/b&gt;&lt;br&gt;
+        - Verdiepen in Css &lt;br&gt;
+        - Iconen designen voor een applicatie&lt;br&gt;
+        &lt;br&gt; &lt;b&gt;Leerervaringen&lt;/b&gt;&lt;br&gt;
+          Mijn leerervaringen van deze week: Je goed inzetten op je stage, misschien houd je er nog een bijbaantje aan over!
+        &lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -35,8 +41,12 @@
   &lt;div class=&quot;blog-post&quot;&gt;
     &lt;h3 class=&quot;title--bloghead&quot;&gt; Week 51&lt;small class=&quot;title--blogdate&quot;&gt;14/12/2015 - 18/12/2015&lt;/small&gt;&lt;/h3&gt;
     &lt;img class=&quot;thumbnail&quot; src=images/blog16.png&gt;
-    &lt;p class=&quot;text--blog&quot;&gt; Deze week begon met nog een paar dagen uitzieken, na twee dagen ben ik toch maar weer gaan werken. Ik heb maar twee dagen kunnen werken want de vrijdag had ik een dag verlof. In deze twee dagen moest ik OZG debuggen en heb ik verder kunnen werken aan mijn website. Je zult wel denken wat is ze veel bezig met haar website, maar om een hele website zelf de bouwen is nog best veel werk.
-    &lt;/p&gt;
+    &lt;p class=&quot;text--blog&quot;&gt; Deze week begon ik met een paar dagen uitzieken, na twee dagen ben ik toch maar weer heen gegaan. In de twee dagen die nog kon mee pakken, heb ik aan het de buggen van OZG gewerkt. Ook heb ik nog iets aan deze website gedaan.
+    &lt;br&gt;&lt;br&gt; &lt;b&gt;Gewerkt aan de volgende doelen uit het stagewerkplan:&lt;/b&gt;&lt;br&gt;
+      - Verdiepen in Css&lt;br&gt;
+      &lt;br&gt; &lt;b&gt;Leerervaringen&lt;/b&gt;&lt;br&gt;
+        Mijn leerervaringen van deze week: Eigenlijk heb ik niet veel bijzonders geleerd deze week.
+      &lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -53,8 +63,12 @@
   &lt;div class=&quot;blog-post&quot;&gt;
     &lt;h3 class=&quot;title--bloghead&quot;&gt; Week 50&lt;small class=&quot;title--blogdate&quot;&gt;07/12/2015 - 11/12/2015&lt;/small&gt;&lt;/h3&gt;
     &lt;img class=&quot;thumbnail&quot; src=images/blog15.png&gt;
-    &lt;p class=&quot;text--blog&quot;&gt;Nog maar drie weken tot dat ik klaar ben. Deze week heb ik al wat stylsheets afgerond, bijvoorbeeld die van Duo en OZG. Ik ben verder gegaan met mijn website daarna wou ik de iconen van de nieuwe CAPP afronden. Alleen eind deze week kreeg ik weer last van de griep. Blijkbaar als er iets rond gaat ben ik altijd de pineut.
-    &lt;/p&gt;
+    &lt;p class=&quot;text--blog&quot;&gt;Nog maar drie weken tot dat ik klaar ben. Deze week heb ik al wat stylsheets afgerond, zoals die van Duo en OZG. Ik ben verder gegaan met mijn stageverslag website en ik wou eigenlijk de iconen van de nieuwe CAPP afhebben deze week, alleen eind deze week kreeg ik weer last van de griep.
+      &lt;br&gt;&lt;br&gt; &lt;b&gt;Gewerkt aan de volgende doelen uit het stagewerkplan:&lt;/b&gt;&lt;br&gt;
+      - Verdiepen in Css&lt;br&gt;
+      &lt;br&gt; &lt;b&gt;Leerervaringen&lt;/b&gt;&lt;br&gt;
+        Mijn leerervaringen van deze week: Deze week heb ik meer geleerd over het debuggen van Html, je raakt volgens mij nooit uitgeleerd in dat opzicht.
+      &lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -72,7 +86,12 @@
     &lt;h3 class=&quot;title--bloghead&quot;&gt; Week 49&lt;small class=&quot;title--blogdate&quot;&gt;30/11/2015 - 04/12/2015&lt;/small&gt;&lt;/h3&gt;
     &lt;img class=&quot;thumbnail&quot; src=images/blog14.png&gt;
     &lt;p class=&quot;text--blog&quot;&gt; Deze week was een herhaling van week 48 en 47. Ik moest nu alleen duo upgraden naar een latere versie van Capp en ik ben weer bezig geweest om mijn stageverslag website te bouwen. Voor de rest was het een rustige week qua opdrachten betreft.
-    &lt;/p&gt;
+      &lt;br&gt;&lt;br&gt; &lt;b&gt;Gewerkt aan de volgende doelen uit het stagewerkplan:&lt;/b&gt;&lt;br&gt;
+      - Verdiepen in Css&lt;br&gt;
+      - Ontwerpen van promotie materiaal voor het bedrijf&lt;br&gt;
+      &lt;br&gt; &lt;b&gt;Leerervaringen&lt;/b&gt;&lt;br&gt;
+        Mijn leerervaringen van deze week: Deze week heb ik veel meer geleerd hoe de css van de stylsheets in elkaar zitten. Ze zitten vrij lastig in elkaar, je kan de omgeving met één verandering al helemaal stuk maken.
+      &lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -89,8 +108,13 @@
   &lt;div class=&quot;blog-post&quot;&gt;
     &lt;h3 class=&quot;title--bloghead&quot;&gt; Week 48&lt;small class=&quot;title--blogdate&quot;&gt;23/11/2015 - 27/11/2015&lt;/small&gt;&lt;/h3&gt;
     &lt;img class=&quot;thumbnail&quot; src=images/blog13.png&gt;
-    &lt;p class=&quot;text--blog&quot;&gt; Deze week heb ik weer promotie materiaal moeten maken voor een Duitse medicatie beurs, alleen dit keer was het een banner. Hij moet 1 meter bij 0,50 meter worden. De rest van de week was ik bezig om NFI naar een nieuwere versie van CAPP te zetten, een hele taak en uit Zuid-Zorg verschillende bugs te halen.
-    &lt;/p&gt;
+    &lt;p class=&quot;text--blog&quot;&gt; Deze week heb ik weer promotie materiaal moeten maken voor een Duitse medicatie beurs, alleen dit keer was het een banner. De banner moest 1 meter bij 0,50 meter worden. Natuurlijk moest de styl van defacto terug komen in de banner. De rest van de week ben ik bezig geweest om NFI naar een nieuwere versie van CAPP te zetten, een hele taak.
+      &lt;br&gt;&lt;br&gt; &lt;b&gt;Gewerkt aan de volgende doelen uit het stagewerkplan:&lt;/b&gt;&lt;br&gt;
+      - Verdiepen in Css&lt;br&gt;
+      - Ontwerpen van promotie materiaal voor het bedrijf&lt;br&gt;
+      &lt;br&gt; &lt;b&gt;Leerervaringen&lt;/b&gt;&lt;br&gt;
+        Mijn leerervaringen van deze week: Deze week heb ik veel meer geleerd hoe de css van de stylsheets in elkaar zitten. Ze zitten vrij lastig in elkaar, je kan de omgeving met één verandering al helemaal stuk maken.
+      &lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -107,8 +131,15 @@
   &lt;div class=&quot;blog-post&quot;&gt;
     &lt;h3 class=&quot;title--bloghead&quot;&gt; Week 47&lt;small class=&quot;title--blogdate&quot;&gt;16/11/2015 - 20/11/2015&lt;/small&gt;&lt;/h3&gt;
     &lt;img class=&quot;thumbnail&quot; src=images/blog12.png&gt;
-    &lt;p class=&quot;text--blog&quot;&gt; Ik heb besloten om mijn stageverslag in een vorm van een website te maken. Deze website wil ik dan ook eigenhandig maken. Zo kan je door de vorm zien wat ik geleerd heb. Eerst moet ik eigenhandig de website opzetten via www.github.com, al een hele taak. Daarna moet er handmatig de navigatie en de verschillende paginas opgezet worden. Voor het tonen van de afbeeldingen in projecten heb ik een Fancybox moeten gebruiken. Het is een heel proces wat je moet door gaan voor dat je pas een aantal basis pagina&#39;s heb.
-    &lt;/p&gt;
+    &lt;p class=&quot;text--blog&quot;&gt; Ik heb besloten om mijn stageverslag in een vorm van een website te maken. Deze website wil ik dan ook helemaal vanaf de rond zelf bouwen. Door deze vorm kan je zien wat ik geleerd heb van Html, Css en Java Script.
+      De website opzetten is via www.github.com gebeurt, al een hele taak. Daarna moet er handmatig de navigatie en de verschillende pagina&#39;s, besturingssystemen opgezet worden. Het is een heel proces wat je moet door gaan voor dat je pas een aantal basis pagina&#39;s heb.
+      &lt;br&gt;&lt;br&gt; &lt;b&gt;Gewerkt aan de volgende doelen uit het stagewerkplan:&lt;/b&gt;&lt;br&gt;
+      - Verdiepen in Css&lt;br&gt;
+      - Verdiepen in Html&lt;br&gt;
+      - Verdiepen in Java script&lt;br&gt;
+      &lt;br&gt; &lt;b&gt;Leerervaringen&lt;/b&gt;&lt;br&gt;
+        Mijn leerervaringen van deze week: Het bekijken van verschillende besturingssystemen. Het aanpassen van een al geschreven code. In al dit gaat al zo veel tijd in zitten.
+      &lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -126,8 +157,13 @@
     &lt;h3 class=&quot;title--bloghead&quot;&gt; Week 46&lt;small class=&quot;title--blogdate&quot;&gt;09/11/2015 - 13/11/2015&lt;/small&gt;&lt;/h3&gt;
     &lt;img class=&quot;thumbnail&quot; src=images/blog11.png&gt;
     &lt;p class=&quot;text--blog&quot;&gt; Deze week heb ik een stagegesprek met mijn stagebegeleider Gerwin Veenstra en stage coördinator Maaike Hamelynck gehad. Na mijn idee ging de beoordeling goed, er waren niet veel op of aanmerkingen.
-      &lt;br&gt;Voor de rest ben ik een aantal dagen bezig geweest met LUMC en LUMC jaargesprekken te debuggen. Er zat een grote fout in het inlogscherm en we konden  niet vinden waar hij zat en hoe het opgelost moest worden. Ik ben er achter gekomen dat Html en Css veel met oplossen van fouten en problemen te maken heeft. Als er al één code fout staat snapt de computer al niet meer wat je bedoeld.
-    &lt;/p&gt;
+      &lt;br&gt;Dde rest van de weekben ik bezig geweest met het debuggen van LUMC en LUMC jaargesprekken. Er zatten grote fout in het inlogscherm als ze de site via IE opende. Het na deel van IE is dat hij niet up-to-date met verschillende codes van Html, Css en Java script is. We konden niet vinden waar de fout zat en hoe hij opgelost moest worden. Ik ben er achter gekomen dat Html en Css veel met oplossen van fouten en problemen te maken heeft. Als er al één code fout staat snapt de computer al niet meer wat je bedoeld.
+      &lt;br&gt;&lt;br&gt; &lt;b&gt;Gewerkt aan de volgende doelen uit het stagewerkplan:&lt;/b&gt;&lt;br&gt;
+      - Verdiepen in Css&lt;br&gt;
+      - Verdiepen in Java script&lt;br&gt;
+      &lt;br&gt; &lt;b&gt;Leerervaringen&lt;/b&gt;&lt;br&gt;
+        Mijn leerervaringen van deze week: Hoe irrant IE wel niet is. Naast alle goede internet applicaties gebruiken veel bedrijven nog IE. Ze lopen zo veel mis en er gaat zo veel kapot.
+      &lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -144,8 +180,12 @@
   &lt;div class=&quot;blog-post&quot;&gt;
     &lt;h3 class=&quot;title--bloghead&quot;&gt; Week 45&lt;small class=&quot;title--blogdate&quot;&gt;02/11/2015 - 06/11/2015&lt;/small&gt;&lt;/h3&gt;
     &lt;img class=&quot;thumbnail&quot; src=images/blog10.png&gt;
-    &lt;p class=&quot;text--blog&quot;&gt; Deze week moest ik de stylsheets van Trajectum, LUMC, Raamwerk en NFI aanpassen. Het is soms echt moeilijk om naar de klanten te luisteren, je weet van te voren dat het niet mooi gaat worden en toch willen ze het. Dan maak je er wat van, maar het is nog steeds niet goed of mooi en zei vinden het prachtig. Het is soms heel moeilijk om niet gillend gek te worden. Bijvoorbeeld een bedrijf zoals Tui, je zou zeggen een groot bedrijf die wel een goed design wil hebben. Maar, nee helaas. Niet alleen moet ik rare kleur stellingen bij elkaar gebruiken, ze sturen mij ook pixelige bestanden. Raamwerk stuurde mij een logo via Paint.
-    &lt;/p&gt;
+    &lt;p class=&quot;text--blog&quot;&gt; Deze week moest ik de stylsheets van Trajectum, LUMC, Raamwerk en NFI aanpassen. Het is soms echt moeilijk om naar de klanten te luisteren, je weet van te voren dat het niet mooi gaat worden en toch willen ze het. Dan maak je er wat van, maar het is nog steeds niet goed of mooi en zei vinden het prachtig. Het is soms heel moeilijk om niet gillend gek te worden. Bijvoorbeeld een bedrijf zoals Tui, je zou zeggen een groot bedrijf die wel een goed design wil hebben. Maar, nee helaas. Niet alleen moet ik rare kleur stellingen bij elkaar gebruiken, ze sturen mij ook pixelige bestanden. Het bedrijf Raamwerk stuurde mij zelfs een logo via Paint.
+      &lt;br&gt;&lt;br&gt; &lt;b&gt;Gewerkt aan de volgende doelen uit het stagewerkplan:&lt;/b&gt;&lt;br&gt;
+      - Verdiepen in Css&lt;br&gt;
+      &lt;br&gt; &lt;b&gt;Leerervaringen&lt;/b&gt;&lt;br&gt;
+        Mijn leerervaringen van deze week: Dit is wat ik nog graag wil leren, een klant duidelijk uitleggen of een design idee die ze hebben wel of niet kan. 
+      &lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -162,8 +202,13 @@
   &lt;div class=&quot;blog-post&quot;&gt;
     &lt;h3 class=&quot;title--bloghead&quot;&gt; Week 44&lt;small class=&quot;title--blogdate&quot;&gt;26/10/2015 - 30/10/2015&lt;/small&gt;&lt;/h3&gt;
     &lt;img class=&quot;thumbnail&quot; src=images/blog9.png&gt;
-    &lt;p class=&quot;text--blog&quot;&gt; Deze week stond in het teken van de projectweek. Alle developers moesten een week samen aan een project werken, om dichter tot elkaar te komen en van elkaar te leren. We moesten een nieuwe software maken en designen. Alleen na één dag werd ik al zien, natuurlijk niet van de opdracht maar van de griep. Blijkbaar heerste er een griep onder de developers en zaten we iets te dicht op elkaars lip.
-    &lt;/p&gt;
+    &lt;p class=&quot;text--blog&quot;&gt; Deze week stond in het teken van de projectweek. Alle developers moesten een week samen aan een project werken, om dichter tot elkaar te komen en van elkaar te leren. We moesten een nieuwe software maken en designen. Alleen na één dag werd ik al ziek, natuurlijk niet van de opdracht maar van de griep. Blijkbaar heerste er een griep onder de developers en zaten we iets te dicht op elkaars lip.
+      &lt;br&gt;&lt;br&gt; &lt;b&gt;Gewerkt aan de volgende doelen uit het stagewerkplan:&lt;/b&gt;&lt;br&gt;
+      - Verdiepen in Css&lt;br&gt;
+      - Mee werken en designen aan een applicatie&lt;br&gt;
+      &lt;br&gt; &lt;b&gt;Leerervaringen&lt;/b&gt;&lt;br&gt;
+        Mijn leerervaringen van deze week: Beter mijn handen wassen.
+      &lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -180,9 +225,15 @@
   &lt;div class=&quot;blog-post&quot;&gt;
     &lt;h3 class=&quot;title--bloghead&quot;&gt; Week 43&lt;small class=&quot;title--blogdate&quot;&gt;19/10/2015 - 23/10/2015&lt;/small&gt;&lt;/h3&gt;
     &lt;img class=&quot;thumbnail&quot; src=images/blog8.png&gt;
-    &lt;p class=&quot;text--blog&quot;&gt; En toen kwamen er deze week nog meer aanvragen voor stylsheets binnen, bijvoorbeeld van: FEK, Trajectum, Zuid-Zorg en KvK. Dat heeft mij wel een week bezig gehouden. Daar naast heb ik nog een cursus van Java Script gevolgd, om mijzelf daar in te verbeteren. Aangezien ik niet veel Java Script gebruik, verleer ik het aardig snel weer.
+    &lt;p class=&quot;text--blog&quot;&gt; En toen kwamen er deze week nog meer aanvragen voor stylsheets binnen. FEK, Trajectum, Zuid-Zorg en KvK dit zijn de bedrijven waar voor ik deze week heb gewerkt. Naast de vele stylsheets heb ik een cursus van Java Script gevolgd via www.codeacademie.com. Ik wil mijzelf vebeteren in Java Script, ik gebruik het niet veel dus verleer het dan aardig snel.
       &lt;br&gt;Ook krijg ik continu de vraag of ik tekstbestanden wil aanpassen, aangezien alleen Mathijs (een designer van Defacto) en ik het programma kennen.
-    &lt;/p&gt;
+      &lt;br&gt;&lt;br&gt; &lt;b&gt;Gewerkt aan de volgende doelen uit het stagewerkplan:&lt;/b&gt;&lt;br&gt;
+      - Verdiepen in Css&lt;br&gt;
+      - Verdiept in Java Script&lt;br&gt;
+      - Voor klanten mogen werken&lt;br&gt;
+      &lt;br&gt; &lt;b&gt;Leerervaringen&lt;/b&gt;&lt;br&gt;
+        Mijn leerervaringen van deze week: Ik denk dat ik het meeste geleerd heb van mijn Java Script cursus deze week.
+      &lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
